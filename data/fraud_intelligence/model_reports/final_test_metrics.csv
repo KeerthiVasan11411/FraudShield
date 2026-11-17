@@ -1,0 +1,2 @@
+model,threshold,precision,recall,f1_score,pr_auc,true_negatives,false_positives,false_negatives,true_positives
+XGBoost - Personalized,0.48696741461753845,0.9836065573770492,1.0,0.9917355371900827,0.9994803304642436,9634,6,0,360

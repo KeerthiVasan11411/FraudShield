@@ -1,0 +1,1 @@
+transaction_id,customer_id,timestamp,amount,currency,merchant_id,merchant_category,transaction_type,transaction_subtype,payee_id,device_id,transaction_status,card_present,is_international,transaction_latitude,transaction_longitude,Class,fraud_type

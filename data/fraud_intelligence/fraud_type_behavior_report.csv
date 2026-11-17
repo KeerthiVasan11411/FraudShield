@@ -1,0 +1,4 @@
+fraud_type,device_change,unusual_transaction_time,new_merchant_for_customer,new_payee
+ATO,91.33,13.5,72.5,27.33
+CNP,0.92,16.31,99.69,0.0
+MONEY_MULE,0.2,14.4,0.0,100.0
